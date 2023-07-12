@@ -1,6 +1,6 @@
 {
   "name": "paywitheasebuzz-cordova-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Cordova plugin Easebuzz.",
   "cordova": {
     "id": "paywitheasebuzz-cordova-plugin",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/easebuzz-root/easebuzz-android/easebuzz-cordova-kit.git"
+    "url": "git+https://github.com/Rekart-io/paywitheasebuzz-cordova-plugin.git"
   },
   "keywords": [
     "Easebuzz",

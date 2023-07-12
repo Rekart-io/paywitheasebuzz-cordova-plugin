@@ -8,7 +8,7 @@
   <license>MIT</license>
 
   <keywords>Easebuzz,payment gateway,online payment,cordova sdk</keywords>
-  <repo>https://gitlab.com/easebuzz-root/easebuzz-android/easebuzz-cordova-kit.git</repo>
+  <repo>https://github.com/Rekart-io/paywitheasebuzz-cordova-plugin.git</repo>
 
   <engines>
     <engine name="cordova" version=">=3.0.0" />
